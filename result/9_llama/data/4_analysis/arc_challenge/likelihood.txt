@@ -1,0 +1,6 @@
+Dataset: Dataset({
+    features: ['id', 'question', 'choices', 'answerKey'],
+    num_rows: 1119
+})
+Block Removal Order: [26, 25, 3, 22, 24, 8, 19]
+Sorted Removal Order: [3, 8, 19, 22, 24, 25, 26]
